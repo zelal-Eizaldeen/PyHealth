@@ -1,5 +1,9 @@
 Welcome to PyHealth!
 ====================================
+.. important::
+
+   * **Join our PyHealth Discord Community!** We are actively looking for contributors and want to get to know our users better! `Click here to join Discord <https://discord.gg/mpb835EHaX>`_
+   * **Signup for our mailing list!** We will email any significant PyHealth changes that are soon to come! `Click here to subscribe <https://docs.google.com/forms/d/e/1FAIpQLSfpJB5tdkI7BccTCReoszV9cyyX2rF99SgznzwlOepi5v-xLw/viewform?usp=header>`_
 
 .. image:: https://img.shields.io/pypi/v/pyhealth.svg?color=brightgreen
    :target: https://pypi.org/project/pyhealth/
@@ -35,6 +39,9 @@ Welcome to PyHealth!
    :target: https://www.youtube.com/playlist?list=PLR3CNIF8DDHJUl8RLhyOVpX_kT4bxulEV
    :alt: YouTube
 
+.. image:: https://github.com/sunlabuiuc/PyHealth/workflows/CI/badge.svg
+   :target: https://github.com/sunlabuiuc/PyHealth/actions
+   :alt: CI status
 
 
 .. -----
